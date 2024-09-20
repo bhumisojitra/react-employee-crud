@@ -1,0 +1,12 @@
+body{
+  font-family: "Montserrat", sans-serif;
+  background-color: #F3F3FF;
+}
+.em-form{
+  background-color: white;
+  width: 700px;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 37px rgba(8, 21, 66, .05);
+}
